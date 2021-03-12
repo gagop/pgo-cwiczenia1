@@ -16,6 +16,7 @@ public class Main {
 		int rezultat2=multiplyNumbers(11, 14);
 		int rezultat3=multiplyNumbers(544, 103);
 		System.out.println(rezultat);
+		//Ala ma kota
     }
 
     public static int multiplyNumbers(int x, int y){
